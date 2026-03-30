@@ -47,11 +47,11 @@ components:
 
 # Definition of the hosts to be analyzed
 hosts:
- - hostname: "mlm-bv-head-server.mgr.suse.de"
+ - hostname: "oscar-server.mgr.suse.de"
    role: "server"
    user: "root"
    password: "linux"
- - hostname: "mlm-bv-head-sles15sp7-minion.mgr.suse.de"
+ - hostname: "oscar-suse-minion.mgr.suse.de"
    role: "minion"
    user: "root"
    password: "linux"

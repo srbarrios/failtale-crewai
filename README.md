@@ -1,4 +1,4 @@
-# FailTale: Automated Test Failure Reviewer
+# FailTale: Automated Test Failure Reviewer for Uyuni test environments
 
 ![fail-tale-image](https://github.com/user-attachments/assets/4d5f62f3-32bb-4c52-8258-7e802e190072)
 
